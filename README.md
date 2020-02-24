@@ -24,7 +24,7 @@ A series of Minecraft modpacks designed to enhance user experience without compr
 | Presence Footsteps | 1.14.4 | Ha3, Sollace | http://presencefootsteps.ha3.eu | Complete sound overhaul, changing the way walking sounds on various blocks. |
 | Roughly Enough Items | 3.1.5 | Danielshe | https://minecraft.curseforge.com/projects/roughly-enough-items | NEI Clone for showing items and recipes |
 | Roughly Enough Resources | 1.1.0 | theorbtwo | https://fabricmc.net/ | Addon for REI that shows where resources are found in the world |
-| ToroHealth Damage Indicators | 1.14.4 | https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators | ToroCraft | What it says on the tin, damage indicators | 
+| ToroHealth Damage Indicators | 1.14.4 | ToroCraft | https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators | What it says on the tin, damage indicators | 
 | VoxelMap | 1.9.13 | MamiyaOtaru |  https://minecraft.curseforge.com/projects/voxelmap | A map and minimap mod. |
 
 ### Minecraft Version 1.15
