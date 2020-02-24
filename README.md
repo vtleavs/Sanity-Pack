@@ -31,4 +31,30 @@ Forge Versions are not being supported, although the 1.14.4 Forge Version is inc
 
 ### Minecraft Version 1.15
 
+- `Lead Villagers` mod has not yet been updated for 1.15 - Removed from modpack
+- `Minecraft Plug-N-Play` mod has not yet been updated for 1.15 - Removed from modpack
+- `Pet 'Em` mod has not yet been updated for 1.15 - Removed from modpack
+- `Roughly Enough Resources` mod has not yet been updated for 1.15 - Removed from modpack
+
+Optifine is in preview status, and will be updated when fully released for 1.15
+
+|  Mod  | Version | Author |  Link  | Description |
+| ----- | ------- | ------ | ------ | ----------- |
+| Diggus Maximus | 1.2.6 | kryptonaught | https://github.com/kyrptonaught/DiggusMaximus | Mine veins of ore in one go. |
+| Dirt to Path | 1.3.1 | MarioAndWeegee3 | https://minecraft.curseforge.com/members/MarioAndWeegee3 | Enable turning dirt to path. |
+| Fabric API | 0.4.32 | FabricMC | https://fabricmc.net | The fabric modloader |
+| Fat Experience Orbs | 0.0.6 | NinjaPhenix |  | Clumps XP into large orbs for performance & simplicity |
+| Hwyla | 1.9.20 | Nicholas Ignoffo, ProfMorbius | https://minecraft.curseforge.com/projects/hwyla | "Here's What Your Looking At" Shows name of block you are looking at. |
+| Inventory Sorter | 1.6.3 | kryptonaught | https://www.curseforge.com/minecraft/mc-mods/inventory-sorting | Middle click in a chest or inventory to sort. |
+| Leaf Decay | 1.1.0 | Draylar | https://fabricmc.net/ | Leaves decay much faster |
+| Light Overlay | 4.2 | Danielshe | https://minecraft.curseforge.com/projects/light-overlay | Shows light level of blocks |
+| Mod Menu | 1.10.1 | Prospector | https://minecraft.curseforge.com/projects/modmenu | Organizes mods and settings into an easy to use menu |
+| Optifabric | 1.0.0 | Modmuss50, Chocohead | https://fabricmc.net/ | Optifine connector for Fabric API |
+| Optifine | 1.15.2 Preview | | | Optifine, for shaders and other graphic overhauls |
+| Presence Footsteps | 1.15.2 | Ha3, Sollace | http://presencefootsteps.ha3.eu | Complete sound overhaul, changing the way walking sounds on various blocks. |
+| Roughly Enough Items | 3.5.4 | Danielshe | https://minecraft.curseforge.com/projects/roughly-enough-items | NEI Clone for showing items and recipes |
+| ToroHealth Damage Indicators | 1.15.1 | ToroCraft | https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators | What it says on the tin, damage indicators | 
+| VoxelMap | 1.9.14 | MamiyaOtaru |  https://minecraft.curseforge.com/projects/voxelmap | A map and minimap mod. |
+
+
 ### Minecraft Version 1.16
