@@ -1,0 +1,33 @@
+{ 
+	"appearance": { 
+		"recipeScreenType": "ORIGINAL",
+		"darkTheme": false,
+		"appendModNames": false,
+		"clickableRecipeArrows": true,
+		"itemListOrdering": "REGISTRY_ASCENDING",
+		"scrollingEntryListWidget": false,
+		"renderEntryExtraOverlay": true,
+		"searchFieldLocation": "CENTER",
+		"itemCheatingMode": "REI_LIKE",
+		"maxRecipePerPage": 3,
+		"villagerScreenPermanentScrollBar": false,
+		"mirrorItemPanel": false,
+		"lightGrayRecipeBorder": false
+	},
+	"modules": { 
+		"showUtilsButtons": false,
+		"disableRecipeBook": false,
+		"enableCraftableOnlyButton": true,
+		"fixTabCloseContainer": false
+	},
+	"!general": { 
+		"cheating": false
+	},
+	"technical": { 
+		"giveCommand": "/give {player_name} {item_identifier}{nbt} {count}",
+		"registerRecipesInAnotherThread": true,
+		"weatherCommand": "/weather {weather}",
+		"loadDefaultPlugin": true,
+		"gamemodeCommand": "/gamemode {gamemode}"
+	}
+}
