@@ -1,7 +1,9 @@
 # Sanity-Pack
 A series of Minecraft modpacks designed to enhance user experience without compromising saves.
 
-## Modlists
+Forge Versions are not being supported, although the 1.14.4 Forge Version is included.
+
+## Fabric Modlists
 
 ### Minecraft Version 1.14
 
