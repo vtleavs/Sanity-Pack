@@ -1,0 +1,7 @@
+{ 
+	/* Function as whitelist instead */ 
+	"isWhitelist": false,
+	/* Block IDs to blacklist from being mined */ 
+	"blacklistedBlocks": [ 
+		]
+}

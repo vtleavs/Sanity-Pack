@@ -1,0 +1,10 @@
+{
+  "canFlattenDirt": true,
+  "canFlattenGrass": true,
+  "canFlattenPodzol": true,
+  "canFlattenCoarseDirt": false,
+  "canFlattenMycelium": true,
+  "canFlattenFarmland": true,
+  "pathDirt": "minecraft:dirt",
+  "customDirtList": ""
+}
