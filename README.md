@@ -58,3 +58,30 @@ Optifine is in preview status, and will be updated when fully released for 1.15
 
 
 ### Minecraft Version 1.16
+
+- `Dirt to Path` has not been updated to 1.16 - removed from modpack
++ `Lead Villagers` has been updated to 1.16 - re-added to modpack
++ `Roughly Enough Resources` has been updated to 1.16 - re-added to modpack
++ `megane` has been added for extra Hwyla information
++ `Horse Stats Vanilla` has been added to better compare horses
+
+|  Mod  | Version | Author |  Link  | Description |
+| ----- | ------- | ------ | ------ | ----------- |
+| Diggus Maximus | 1.4.2 | kryptonaught | https://github.com/kyrptonaught/DiggusMaximus | Mine veins of ore in one go. |
+| Fabric API | 0.26.0 | FabricMC | https://fabricmc.net | The fabric modloader |
+| Fat Experience Orbs | 0.0.7 | NinjaPhenix | https://www.curseforge.com/minecraft/mc-mods/fat-experience-orbs | Clumps XP into large orbs for performance & simplicity |
+| Hwyla | 1.9.22 | Nicholas Ignoffo, ProfMorbius | https://minecraft.curseforge.com/projects/hwyla | "Here's What Your Looking At" Shows name of block you are looking at. |
+| megane | 3.03 | badasintended | https://www.curseforge.com/minecraft/mc-mods/megane | Adds extra information to Hwyla like chest contents etc.
+| Inventory Sorter | 1.7.4 | kryptonaught | https://www.curseforge.com/minecraft/mc-mods/inventory-sorting | Middle click in a chest or inventory to sort. |
+| Leaf Decay | 1.2.0 | Draylar | https://fabricmc.net/ | Leaves decay much faster |
+| Light Overlay | 5.5.4 | Danielshe | https://minecraft.curseforge.com/projects/light-overlay | Shows light level of blocks |
+| Mod Menu | 1.14.9 | Prospector | https://minecraft.curseforge.com/projects/modmenu | Organizes mods and settings into an easy to use menu |
+| Optifabric | 1.8.5 | Modmuss50, Chocohead | https://fabricmc.net/ | Optifine connector for Fabric API |
+| Optifine | 1.16.4 | | | Optifine, for shaders and other graphic overhauls |
+| Horse Stats Vanilla | 4.1.4 | theLumpyMonkey | https://www.curseforge.com/minecraft/mc-mods/horsestatsvanilla | Shows horse stats in vanilla menus
+| Lead Villagers | 1.2.0 | sargunv | https://minecraft.curseforge.com/projects/lead-villagers | Allows leads to work on villagers |
+| Presence Footsteps | 1.16.2 | Ha3, Sollace | http://presencefootsteps.ha3.eu | Complete sound overhaul, changing the way walking sounds on various blocks. |
+| Roughly Enough Items | 5.8.5 | Danielshe | https://minecraft.curseforge.com/projects/roughly-enough-items | NEI Clone for showing items and recipes |
+| Roughly Enough Resources | 2.1.2 | theorbtwo | https://fabricmc.net/ | Addon for REI that shows where resources are found in the world |
+| ToroHealth Damage Indicators (Client only) | 1.16.4 | ToroCraft | https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators | What it says on the tin, damage indicators | 
+| VoxelMap | 1.10.11 | MamiyaOtaru |  https://minecraft.curseforge.com/projects/voxelmap | A map and minimap mod. |
