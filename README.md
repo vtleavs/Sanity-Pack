@@ -3,6 +3,8 @@ A series of Minecraft modpacks designed to enhance user experience without compr
 
 Forge Versions are not being supported, although the 1.14.4 Forge Version is included.
 
+Optifine must be installed manually.  The appropriate binaries for each version can be downloaded at https://optifine.net/downloads
+
 ## Fabric Modlists
 
 ### Minecraft Version 1.14
